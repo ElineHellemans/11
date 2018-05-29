@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio ",
-    "currentPage": "textiel.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,7 +17,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 235,
+    "uniqCompNum": 239,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": "true",
@@ -155,14 +155,15 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/naam.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"me.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"keuzemenu.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -376,14 +377,15 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/naam.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"me.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"keuzemenu.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -752,14 +754,15 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/naam.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"me.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"keuzemenu.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -774,7 +777,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/schermafdruk-2018-05-25-16.21.40.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/schermafdruk-2018-05-25-16.21.40-57.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -829,7 +832,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/schermafdruk-2018-05-25-11.40.07.png",
+              "src": "@PROJECT_PATH@/assets/images/schermafdruk-2018-05-25-11.40.07-56.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -890,7 +893,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/foto-grote-maquette-2000x1333.jpg",
+              "src": "@PROJECT_PATH@/assets/images/foto-grote-maquette-1.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -952,7 +955,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dsc-22.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-23.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1017,7 +1020,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dsc-18.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-19.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1132,14 +1135,15 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/naam.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"me.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"keuzemenu.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -1299,14 +1303,15 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/naam.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"me.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"keuzemenu.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -1320,7 +1325,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/straat-iedereen-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/straat-iedereen-2.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -1435,7 +1440,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/voorblad.jpg",
+              "src": "@PROJECT_PATH@/assets/images/voorblad-2.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1496,7 +1501,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/zijaanzicht.jpg",
+              "src": "@PROJECT_PATH@/assets/images/zijaanzicht-3.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1557,7 +1562,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/achtergevelhuisleuven.jpg",
+              "src": "@PROJECT_PATH@/assets/images/achtergevelhuisleuven-1.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1673,14 +1678,15 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/naam.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"me.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"keuzemenu.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -1695,7 +1701,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/7429-bewerkt.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/7429-bewerkt-8.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
@@ -1805,14 +1811,15 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/naam.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"me.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"keuzemenu.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -1825,7 +1832,7 @@
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25-33.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
@@ -1992,14 +1999,15 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/naam.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"me.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"keuzemenu.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -2014,7 +2022,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2015-07-19-18.57.01-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/2015-07-19-18.57.01-2.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -2055,74 +2063,74 @@
             "bgColor": "#ffffff",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/img-7537.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7537-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7538.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7538-800x533.jpg",
                 "active": false,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc05180-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc05180-1-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc05180-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05180-2-800x532.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7564.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7564-800x533.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dimensie-kleur-mooi-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dimensie-kleur-mooi-3-800x539.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7581.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7581-800x533.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/7429-bewerkt-8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7429-bewerkt-8-800x533.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7661.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7661-800x533.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc05158-1-800x532.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05158-1-800x532-800x532.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc05228-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05228-2-800x532.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/glazen-5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/glazen-5-800x533.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2016-07-16-15.55.57-9.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2016-07-16-15.55.57-9-800x533.jpg",
                 "active": true,
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-7563.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7563-800x533.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dimensie-kleur-mooi-2.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dimensie-kleur-mooi-2-800x539.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-7580.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7580-800x533.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/7429-bewerkt.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/7429-bewerkt-800x533.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-7660.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7660-800x533.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-7780.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7780-800x533.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dsc05158.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc05158-800x532.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dsc05228-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc05228-1-800x532.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/glazen-4.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/glazen-4-800x533.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/2016-07-16-15.55.57.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2016-07-16-15.55.57-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7781.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7781-800x533.jpg",
                 "active": false,
                 "alt": ""
               }
@@ -2156,7 +2164,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/7357-bewerkt-copy-zw.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/7357-bewerkt-copy-zw-7.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -2216,7 +2224,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dsc-0054-3-2000x1335-800x534.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-0054-3-800x534.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2287,8 +2295,7 @@
               "src": "@PROJECT_PATH@/assets/images/dsc-0044-4-2000x1335.jpg",
               "link": "woning.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -2403,14 +2410,15 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/naam.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"me.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"keuzemenu.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -2445,7 +2453,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/brussel-goede-test-2000x1414-800x565.jpg",
+              "src": "@PROJECT_PATH@/assets/images/brussel-goede-test-800x565.jpg",
               "link": "esplanade.html",
               "alt": "",
               "title": ""
@@ -2516,7 +2524,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/foto-grote-maquette-2000x1333.jpg",
+              "src": "@PROJECT_PATH@/assets/images/foto-grote-maquette-1.jpg",
               "link": "charleroi.html",
               "alt": "",
               "title": ""
@@ -2587,11 +2595,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/boek-thesis-1999x1409.jpg",
+              "src": "@PROJECT_PATH@/assets/images/boek-thesis-1-800x563.jpg",
               "link": "thesis.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -2722,14 +2729,15 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/naam.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"me.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"keuzemenu.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -2764,7 +2772,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/17861441-10154579970473613-4376165829201005768-n.jpg",
+              "src": "@PROJECT_PATH@/assets/images/17861441-10154579970473613-4376165829201005768-n-32.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2897,14 +2905,15 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/naam.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"me.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"keuzemenu.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -2919,7 +2928,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc05259-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc05259-2.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -2981,7 +2990,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-7374.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-7375.jpg",
               "link": "textiel1.html",
               "alt": "",
               "title": ""
@@ -2999,7 +3008,7 @@
             }
           },
           "title": "<br><br>&nbsp;lengte, breedte en kruispunt<br>",
-          "text": "<p>&gt; voor meer uitleg klik op foto &nbsp;</p>",
+          "text": "<p>&nbsp;&nbsp;</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -3035,7 +3044,7 @@
             "showText": false,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "17",
+            "imageSize": "12",
             "paddingTop": "3",
             "paddingBottom": "2",
             "bgImageRadio": false,
@@ -3055,11 +3064,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dsc05270.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc05270-20.jpg",
               "link": "textblik.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -3124,11 +3132,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/kleur-mens-textiel.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kleur-mens-textiel-52.jpg",
               "link": "textiel2.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -3199,11 +3206,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/p10-modulor.jpg",
+              "src": "@PROJECT_PATH@/assets/images/p10-modulor-53.jpg",
               "link": "textiel2b.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -3327,14 +3333,15 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/naam.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"me.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"keuzemenu.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -3463,14 +3470,15 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/naam.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"me.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"keuzemenu.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -3529,7 +3537,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-7374.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-7375.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -3597,7 +3605,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1970-02-26-00.52.38.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1970-02-26-00.52.38-51.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -3785,7 +3793,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2018-01-15-12.56.37-bewerkt.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2018-01-15-12.56.37-bewerkt-18.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -3848,7 +3856,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/doek-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/doek-2.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -3911,7 +3919,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-20180130-wa0004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20180130-wa0004-25.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -3972,7 +3980,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2018-01-23-13.22.01.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2018-01-23-13.22.01-21.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -4092,14 +4100,15 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/naam.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"me.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"keuzemenu.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -4182,7 +4191,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1970-01-01-08.20.04.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1970-01-01-08.20.04-55.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -4309,14 +4318,15 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/naam.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"me.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"keuzemenu.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -4399,7 +4409,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/p10-modulor.jpg",
+              "src": "@PROJECT_PATH@/assets/images/p10-modulor-53.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -4526,14 +4536,15 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/naam.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"me.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"keuzemenu.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -4716,14 +4727,15 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/naam.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"me.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"keuzemenu.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
